@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594064080014",
+    "project_id": "photo-album-e5607",
+    "storage_bucket": "photo-album-e5607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594064080014:android:19a44d8803d47a23d71ddf",
+        "android_client_info": {
+          "package_name": "com.example.lab8_203843"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594064080014-vorih6smcmtk2nb0elt2btc0jte38h16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvnw2hj_UU4k9xxGkf0Dgs_cbQcVPqZlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594064080014-vorih6smcmtk2nb0elt2btc0jte38h16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
